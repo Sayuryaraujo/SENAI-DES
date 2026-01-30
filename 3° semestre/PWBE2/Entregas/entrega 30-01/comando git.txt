@@ -1,0 +1,13 @@
+git config --global user.name "sayury"
+git config --global user.email "sayurydem@gmail.com"
+
+//clonar repositorio:
+git clone https://github.com/Sayuryaraujo/SENAI-DES.git
+
+//atualizar repositorio WEB:
+git add . (ele adiciona as alteraçoes feitas)
+git commit -m "comentario" (valida as alteracoes feitas)
+git push (ele envia as alteraçoes)
+
+//atualizar repositorio local:
+git pull
