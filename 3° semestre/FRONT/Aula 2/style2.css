@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 30px;
+    background-color: rgb(186, 133, 151);
+}
+
+input{
+    padding: 8px;
+    margin-top: 10px;
+    background-color: rgb(235, 230, 233);
+}
+
+button {
+    padding: 8px;
+    margin-top: 10px;
+    background-color:lightgrey;
+}
+
+#resultado {
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+button:hover{
+    background-color: rgb(167, 151, 160);
+    transition: 0.2 ease;
+}
+
+p{
+    margin: 10px;
+    color: #333;
+}
+
+input::placeholder{
+    color: rgb(50, 5, 50);
+}
