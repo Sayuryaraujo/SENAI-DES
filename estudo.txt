@@ -1,0 +1,24 @@
+'=variável
+"=texto
+let=criar variável (mudável)
+cont= igual mas não muda
+
+
+express cors mysql2 dotenv
+npm install express
+npm i express
+npm i i express cors dotenv prisma @prisma/client
+npm i nodemon
+
+npx nodemon 
+
+npm i prisma
+
+npm i @prisma/cliente
+
+npx prisma init --datasource-provider mysql
+
+npx prisma migrate dev
+
+npm i @prisma/adapter-mariadb
+
