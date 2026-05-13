@@ -63,7 +63,7 @@ As telas devem ser organizadas, fáceis de usar e focadas para gerenciadores de 
 Utilize cartões modernos, botões arredondados, sombras suaves e uma interface elegante com tema escuro em roxo.
 
 # PRINT
-![P1](./assets/p1)
+![P1](./assets/p1.png)
 
 
 
