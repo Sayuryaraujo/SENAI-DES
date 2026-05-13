@@ -63,10 +63,15 @@ Utilize cartões modernos, botões arredondados, sombras suaves e uma interface 
 
 # PRINT
 ![P1](./assets/p1.png)
+
 ![P2](./assets/p2.png)
+
 ![P3](./assets/p3.png)
+
 ![P4](./assets/p4.png)
+
 ![P5](./assets/p5.png)
+
 ![P6](./assets/p6.png)
 
 
